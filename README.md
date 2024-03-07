@@ -66,4 +66,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ## Acknowledgement
 Inspired by Cafe Management System (Spending-at-the-cafe) by doing research.
 
-[https://github.com/rimag2023/Spending-at-the-cafe/edit/main/README.md](pexels-afta-putta-gunawan-683039.jpg)
+[https://github.com/rimag2023/Spending-at-the-cafe/edit/main/README.md](https://simple.wikipedia.org/wiki/Café#/media/File:Röe_gård_café_2.jpg)
