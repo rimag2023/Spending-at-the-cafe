@@ -28,10 +28,10 @@ Cafe Management System is a Python script that helps manage cafe's inventory and
 bash
 git clone https://github.com/rimag2023/Spending-at-the-cafe.git
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 bash
 cd Spending-at-the-cafe
-3. Install dependencies:
+4. Install dependencies:
 pip install -r requirements.txt 
 
 ## Database 
